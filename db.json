@@ -8,26 +8,21 @@
     {
       "id": 102,
       "ename": "Siva",
-      "salary": 20000
+      "salary": 60000
     },
     {
       "id": 103,
-      "ename": "Vamshi",
-      "salary": 30000
+      "ename": "Hari",
+      "salary": 95000
     },
     {
       "id": 104,
-      "ename": "Hari",
-      "salary": 80000
+      "ename": "Ram",
+      "salary": 85000
     },
     {
       "id": 105,
-      "ename": "Rambabu",
-      "salary": 70000
-    },
-    {
-      "id": 106,
-      "ename": "Ashok",
+      "ename": "Vamsi",
       "salary": 80000
     }
   ]
